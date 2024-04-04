@@ -1,5 +1,7 @@
 # Library-Management-Program-JAVA
-This Project is a simple library management system implemented in Java. It allows users to view available books, borrow books, and return books. The project consists of the following classes: 
+This Project is a library management system implemented in Java. It allows users to view available books, borrow books, and return books.This project is made handle all the exception and border cases and events. This project keeps track of all the recorded needed to handle the proper returning and borrowing of books.
+
+The project consists of the following classes: 
 ## Book
 ### Field:
  * name: String - the name of the book 
